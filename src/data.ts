@@ -47,7 +47,7 @@ export const experience = [
   },
   {
     role: "IT Support Engineer",
-    company: "Pivotree Solutions India Pvt. Ltd.",
+    company: "Bridge Solutions India Pvt. Ltd.",
     location: "Bengaluru",
     period: "Sep 2021 – Feb 2022",
     points: [
